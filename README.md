@@ -3,7 +3,7 @@
 Independent on-chain receipt verification of outbound `FLAPJAX` (`0x90c8889f428F9Ebb77BB8f15CAD3a50a9aC680df`) transfers from the FlapJax treasury (`0x7C34E9e21eE28A49Ff0b84B61774119E6633359f`) on BNB Smart Chain (BSC), grouped by first BNB funder.
 
 - **Worker / BSC Payout Wallet (Taskmarket)**: `0xf46B3853261750F666eB3963e2cB40d6b68938A9`
-- **Secondary Operator BSC Wallet**: `0x8F4D81974D15998da80C603272729C35ef2341577`
+- **Secondary Operator BSC Wallet**: `0x8F4D81974D15998da80C603272729C35ef234157`
 - **Live Snapshot Block Verified**: `130768956`
 
 ## Audit Reports
