@@ -1,0 +1,1055 @@
+{
+  "Q76": [
+    {
+      "txHash": "0xf7aa9f0af86d61fb7f622c0b23e303ef8e81c69bd32f117c8d03ffaaf5c3446f",
+      "nonce": 480,
+      "blockNumber": 130098574,
+      "timestamp": 1793108224,
+      "timeCOT": "2026-10-27 08:37:04",
+      "timeUTC": "2026-10-27 13:37:04",
+      "recipient": "0x6194e3ee19af3d68d08061f91d37e0fa00c49642",
+      "amountWei": "250000000000000000000000",
+      "amountFLAPJAX": 250000
+    },
+    {
+      "txHash": "0xb7ddb8d2148c86df17c74c365c157988c29223db94e5589c401ce154f69b66ac",
+      "nonce": 481,
+      "blockNumber": 130098583,
+      "timestamp": 1793108228,
+      "timeCOT": "2026-10-27 08:37:08",
+      "timeUTC": "2026-10-27 13:37:08",
+      "recipient": "0xeb1a0045d2477f4ae99c07e55d944ad361cfc828",
+      "amountWei": "250000000000000000000000",
+      "amountFLAPJAX": 250000
+    },
+    {
+      "txHash": "0xe3361cbd6e9d5790fccb387817b5a510120f2e929c2044377e817ac48ac78509",
+      "nonce": 482,
+      "blockNumber": 130098593,
+      "timestamp": 1793108233,
+      "timeCOT": "2026-10-27 08:37:13",
+      "timeUTC": "2026-10-27 13:37:13",
+      "recipient": "0xf21abef982bb1ac0308fc60887881ba640323053",
+      "amountWei": "500000000000000000000000",
+      "amountFLAPJAX": 500000
+    },
+    {
+      "txHash": "0xe39fc522129401b61b2c054a6547627616d7f6bc95cf8f9daba39d605f6059d1",
+      "nonce": 483,
+      "blockNumber": 130098603,
+      "timestamp": 1793108237,
+      "timeCOT": "2026-10-27 08:37:17",
+      "timeUTC": "2026-10-27 13:37:17",
+      "recipient": "0x71286ec8ecb2c08ba5fc1120b27e97b517bdb058",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0xfedc430f0ad96869a0b1bee7f58948386ba829f9a9f89884919d0f61ce1e0b17",
+      "nonce": 484,
+      "blockNumber": 130098612,
+      "timestamp": 1793108241,
+      "timeCOT": "2026-10-27 08:37:21",
+      "timeUTC": "2026-10-27 13:37:21",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0xbf53b76946623314f4e5c86c1e266c32f7dc321d36742d4ae7733e353c80a8c8",
+      "nonce": 485,
+      "blockNumber": 130098622,
+      "timestamp": 1793108246,
+      "timeCOT": "2026-10-27 08:37:26",
+      "timeUTC": "2026-10-27 13:37:26",
+      "recipient": "0xd1cada310f73455a2b119fa49aa8b682bfff9f7d",
+      "amountWei": "100000000000000000000000",
+      "amountFLAPJAX": 100000
+    },
+    {
+      "txHash": "0x0be8025307dfd9172187c323f0092bacf1f34948ae15e4df44558ddf65b03156",
+      "nonce": 486,
+      "blockNumber": 130098675,
+      "timestamp": 1793108269,
+      "timeCOT": "2026-10-27 08:37:49",
+      "timeUTC": "2026-10-27 13:37:49",
+      "recipient": "0x8186bdc89e5893393136265f88ba3719bf453527",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0xb6b4c1b363e9ca0f78740d828f05af0bd991964ab229b60f7e3a144ce5533e3a",
+      "nonce": 487,
+      "blockNumber": 130098686,
+      "timestamp": 1793108274,
+      "timeCOT": "2026-10-27 08:37:54",
+      "timeUTC": "2026-10-27 13:37:54",
+      "recipient": "0x8186bdc89e5893393136265f88ba3719bf453527",
+      "amountWei": "600000000000000000000000",
+      "amountFLAPJAX": 600000
+    },
+    {
+      "txHash": "0xdbbc176086c918fa790c648eba56e773fbee0a14882d862b9e0b7bcb5304c2f0",
+      "nonce": 488,
+      "blockNumber": 130099277,
+      "timestamp": 1793108541,
+      "timeCOT": "2026-10-27 08:42:21",
+      "timeUTC": "2026-10-27 13:42:21",
+      "recipient": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+      "amountWei": "50000000000000000000000",
+      "amountFLAPJAX": 50000
+    },
+    {
+      "txHash": "0x95b98673fd1328486b31a9bedc677e7ca8c48fed9d03511328cbbd50b9ec86a7",
+      "nonce": 489,
+      "blockNumber": 130099288,
+      "timestamp": 1793108546,
+      "timeCOT": "2026-10-27 08:42:26",
+      "timeUTC": "2026-10-27 13:42:26",
+      "recipient": "0xc3b4f10bc4c4a64676b398ebbe23b29440dca40c",
+      "amountWei": "50000000000000000000000",
+      "amountFLAPJAX": 50000
+    },
+    {
+      "txHash": "0x4af89a6778cf16f5a60ac472fda31c38d8c1e5c53fa0a1487505ec77d6daf862",
+      "nonce": 490,
+      "blockNumber": 130099933,
+      "timestamp": 1793108836,
+      "timeCOT": "2026-10-27 08:47:16",
+      "timeUTC": "2026-10-27 13:47:16",
+      "recipient": "0xc39a62559e81807e0f63c0529da375cfc8fb294c",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x0a8289e71d4f4d81d214aa41c40eea4eaa1bf2d0095e7c5e16f9795b7b3e429a",
+      "nonce": 491,
+      "blockNumber": 130099942,
+      "timestamp": 1793108840,
+      "timeCOT": "2026-10-27 08:47:20",
+      "timeUTC": "2026-10-27 13:47:20",
+      "recipient": "0x405f0dbd296b580dd2798bd3597da61407bbda36",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xbefc7b770b605ba2b378a21062a4e2c99f779b70fbb76643b7a3f468ad325fc1",
+      "nonce": 492,
+      "blockNumber": 130099951,
+      "timestamp": 1793108845,
+      "timeCOT": "2026-10-27 08:47:25",
+      "timeUTC": "2026-10-27 13:47:25",
+      "recipient": "0x6194e3ee19af3d68d08061f91d37e0fa00c49642",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xd4e345a7e3277cd337c782ec8add908d7c1746a28b924139e7d73bed8f43cbaa",
+      "nonce": 493,
+      "blockNumber": 130099960,
+      "timestamp": 1793108849,
+      "timeCOT": "2026-10-27 08:47:29",
+      "timeUTC": "2026-10-27 13:47:29",
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xd105ffcc87cd6a562e6cc40da6e47c2a3c32407d10f3f2e98dc8260f4bfd8efa",
+      "nonce": 494,
+      "blockNumber": 130099969,
+      "timestamp": 1793108853,
+      "timeCOT": "2026-10-27 08:47:33",
+      "timeUTC": "2026-10-27 13:47:33",
+      "recipient": "0x6e850f8549f2490e26d86f43f80594565f0f00a3",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xd49f035045ce1cd1b86ed70ab103829e3dabacd844d626752a4a6ba833451bc3",
+      "nonce": 495,
+      "blockNumber": 130099979,
+      "timestamp": 1793108857,
+      "timeCOT": "2026-10-27 08:47:37",
+      "timeUTC": "2026-10-27 13:47:37",
+      "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xc791c561ee5d5950603e2065e354c4aaeb858ec858d5518b281f575a65a16955",
+      "nonce": 496,
+      "blockNumber": 130099988,
+      "timestamp": 1793108861,
+      "timeCOT": "2026-10-27 08:47:41",
+      "timeUTC": "2026-10-27 13:47:41",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x83a1dcfd052e5b1df8ef0cb82f380a9cd7b6c90f3a947f2ae412a95cfc9b0257",
+      "nonce": 497,
+      "blockNumber": 130100183,
+      "timestamp": 1793108949,
+      "timeCOT": "2026-10-27 08:49:09",
+      "timeUTC": "2026-10-27 13:49:09",
+      "recipient": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+      "amountWei": "4877000000000000000000000",
+      "amountFLAPJAX": 4877000
+    },
+    {
+      "txHash": "0x04f18370dca64be04e52bc70981b3d48d7cefe584684e0efb724f5c4de376bb2",
+      "nonce": 498,
+      "blockNumber": 130105499,
+      "timestamp": 1793111342,
+      "timeCOT": "2026-10-27 09:29:02",
+      "timeUTC": "2026-10-27 14:29:02",
+      "recipient": "0xf21abef982bb1ac0308fc60887881ba640323053",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xd0ebd47189d241075d29bee65dd8860417ae3623441e391ccb8d83ed6c2a12ea",
+      "nonce": 499,
+      "blockNumber": 130105682,
+      "timestamp": 1793111424,
+      "timeCOT": "2026-10-27 09:30:24",
+      "timeUTC": "2026-10-27 14:30:24",
+      "recipient": "0xf21abef982bb1ac0308fc60887881ba640323053",
+      "amountWei": "600000000000000000000000",
+      "amountFLAPJAX": 600000
+    },
+    {
+      "txHash": "0x5c38c93ea8462d81af634c8a349adc517b3d2191173bea3d73f07a9fe620b1b1",
+      "nonce": 501,
+      "blockNumber": 130121654,
+      "timestamp": 1793118614,
+      "timeCOT": "2026-10-27 11:30:14",
+      "timeUTC": "2026-10-27 16:30:14",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xd4d0a4d92a71bd810690f2a758017df44d3d3e8adfaa0a0fbb32a098f7edcb04",
+      "nonce": 502,
+      "blockNumber": 130121663,
+      "timestamp": 1793118618,
+      "timeCOT": "2026-10-27 11:30:18",
+      "timeUTC": "2026-10-27 16:30:18",
+      "recipient": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x359244a3a9c52b001534c27475842d62decd28d518e4bebfd743633427363135",
+      "nonce": 503,
+      "blockNumber": 130121910,
+      "timestamp": 1793118729,
+      "timeCOT": "2026-10-27 11:32:09",
+      "timeUTC": "2026-10-27 16:32:09",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x6838b1888ca60ed954f7e66a44ed29a6f399a7e3dbb906a7f2bece6abbdbb801",
+      "nonce": 504,
+      "blockNumber": 130128829,
+      "timestamp": 1793121843,
+      "timeCOT": "2026-10-27 12:24:03",
+      "timeUTC": "2026-10-27 17:24:03",
+      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xfb2ab1699e1e6eea073ac7227a4bc4d1bbde9e29a368e9acb85c5a982f736d07",
+      "nonce": 505,
+      "blockNumber": 130128838,
+      "timestamp": 1793121847,
+      "timeCOT": "2026-10-27 12:24:07",
+      "timeUTC": "2026-10-27 17:24:07",
+      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x81616b3e0787f5d2a35e02ee17814a29cd169712f8e2bae6bbf72a467a73d314",
+      "nonce": 506,
+      "blockNumber": 130128847,
+      "timestamp": 1793121851,
+      "timeCOT": "2026-10-27 12:24:11",
+      "timeUTC": "2026-10-27 17:24:11",
+      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+      "amountWei": "250000000000000000000000",
+      "amountFLAPJAX": 250000
+    },
+    {
+      "txHash": "0x5720a2eb63405265998d12a141d353f7b3ba22a9a05eea70c9003b9cf916697b",
+      "nonce": 507,
+      "blockNumber": 130137904,
+      "timestamp": 1793125928,
+      "timeCOT": "2026-10-27 13:32:08",
+      "timeUTC": "2026-10-27 18:32:08",
+      "recipient": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xb9ba419f2a1985711ce2a2a3fd2b408d9884ddba375cb9298cf21945285ff220",
+      "nonce": 508,
+      "blockNumber": 130152865,
+      "timestamp": 1793132660,
+      "timeCOT": "2026-10-27 15:24:20",
+      "timeUTC": "2026-10-27 20:24:20",
+      "recipient": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x8f1375d552091f7690b1509058544db03f4bc5c43524e635389168e0e953e0d7",
+      "nonce": 509,
+      "blockNumber": 130168811,
+      "timestamp": 1793139838,
+      "timeCOT": "2026-10-27 17:23:58",
+      "timeUTC": "2026-10-27 22:23:58",
+      "recipient": "0xe8797a6bb4693674d78e933e85cb159a0219d03b",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x40806f42cbe62411170e18861dc4092a68dc7608c688df6939f5b07a9a3bb161",
+      "nonce": 510,
+      "blockNumber": 130168822,
+      "timestamp": 1793139843,
+      "timeCOT": "2026-10-27 17:24:03",
+      "timeUTC": "2026-10-27 22:24:03",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "120000000000000000000000",
+      "amountFLAPJAX": 120000
+    },
+    {
+      "txHash": "0xae1afa315c1741ff91309f0445b17a0da994bfc5844e4909ed5d9546b1d0d54b",
+      "nonce": 511,
+      "blockNumber": 130177179,
+      "timestamp": 1793143605,
+      "timeCOT": "2026-10-27 18:26:45",
+      "timeUTC": "2026-10-27 23:26:45",
+      "recipient": "0x0098e0a060eb73c11d981de17c97dc5b1f07d735",
+      "amountWei": "100000000000000000000000",
+      "amountFLAPJAX": 100000
+    }
+  ],
+  "Q78": [
+    {
+      "txHash": "0xbfc21c7712f9ac9a4169e211e0e341d14236fbc097fae2e03852cce1ef0e7952",
+      "nonce": 512,
+      "blockNumber": 130289426,
+      "timestamp": 1793194171,
+      "timeCOT": "2026-10-28 08:29:31",
+      "timeUTC": "2026-10-28 13:29:31",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x76f4abaa6a14005726257d1412d9a9842af6c09a5bb6395c2604f844f9bff77d",
+      "nonce": 513,
+      "blockNumber": 130289434,
+      "timestamp": 1793194175,
+      "timeCOT": "2026-10-28 08:29:35",
+      "timeUTC": "2026-10-28 13:29:35",
+      "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xdd2feb71c1dda3945b233ab7c924b1d1e6d52b7d3dcd4cc6354e3248df9b3da4",
+      "nonce": 514,
+      "blockNumber": 130289443,
+      "timestamp": 1793194179,
+      "timeCOT": "2026-10-28 08:29:39",
+      "timeUTC": "2026-10-28 13:29:39",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x8c6305282436e1867eeac42b859ff947dad7f0db447af34fb8ff7185d88bb0d9",
+      "nonce": 515,
+      "blockNumber": 130289453,
+      "timestamp": 1793194183,
+      "timeCOT": "2026-10-28 08:29:43",
+      "timeUTC": "2026-10-28 13:29:43",
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xe468d224801e50cf936296a8f79b6bc9dc13d14bede24bd9945312e597b2074e",
+      "nonce": 516,
+      "blockNumber": 130289462,
+      "timestamp": 1793194188,
+      "timeCOT": "2026-10-28 08:29:48",
+      "timeUTC": "2026-10-28 13:29:48",
+      "recipient": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x7e8f90f49597397529cc81cea8723debc2dd08da35ba78999fcc2840dc4cad0c",
+      "nonce": 517,
+      "blockNumber": 130289472,
+      "timestamp": 1793194192,
+      "timeCOT": "2026-10-28 08:29:52",
+      "timeUTC": "2026-10-28 13:29:52",
+      "recipient": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x0c7d758ba9955a141839d137c2830b41860eb00ccdb0bb1a10ef33829e9b1bb6",
+      "nonce": 518,
+      "blockNumber": 130289480,
+      "timestamp": 1793194196,
+      "timeCOT": "2026-10-28 08:29:56",
+      "timeUTC": "2026-10-28 13:29:56",
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x825b5c67d1cf033e9f756dcd5c69f683d77f2478ee0ee5d8f6b04d42df05c8ae",
+      "nonce": 519,
+      "blockNumber": 130290580,
+      "timestamp": 1793194691,
+      "timeCOT": "2026-10-28 08:38:11",
+      "timeUTC": "2026-10-28 13:38:11",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x388a55851ce63aaf984e6671f305155b165c47225dc5d7dab0e47d8ce2763372",
+      "nonce": 520,
+      "blockNumber": 130292025,
+      "timestamp": 1793195342,
+      "timeCOT": "2026-10-28 08:49:02",
+      "timeUTC": "2026-10-28 13:49:02",
+      "recipient": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+      "amountWei": "10000000000000000000000",
+      "amountFLAPJAX": 10000
+    },
+    {
+      "txHash": "0x69fea445443ca8d27e43d3c11f53aaa34a2edc7e997e84668409d86eb021abb5",
+      "nonce": 522,
+      "blockNumber": 130305844,
+      "timestamp": 1793201563,
+      "timeCOT": "2026-10-28 10:32:43",
+      "timeUTC": "2026-10-28 15:32:43",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x3f4d252efc70064dd841e062847aad926bebca630137787832c77b10fd246de5",
+      "nonce": 523,
+      "blockNumber": 130305853,
+      "timestamp": 1793201567,
+      "timeCOT": "2026-10-28 10:32:47",
+      "timeUTC": "2026-10-28 15:32:47",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x4f591ad86bb514247d59dbc91cf5793b0a63f22b9e73929aa4bb05946cc3f1f9",
+      "nonce": 524,
+      "blockNumber": 130305864,
+      "timestamp": 1793201572,
+      "timeCOT": "2026-10-28 10:32:52",
+      "timeUTC": "2026-10-28 15:32:52",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "120000000000000000000000",
+      "amountFLAPJAX": 120000
+    },
+    {
+      "txHash": "0x00b7423c3baf0986ceda24d5286733747a5aed181106a8cf166f6319eacd94bd",
+      "nonce": 525,
+      "blockNumber": 130329034,
+      "timestamp": 1793212000,
+      "timeCOT": "2026-10-28 13:26:40",
+      "timeUTC": "2026-10-28 18:26:40",
+      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+      "amountWei": "150000000000000000000000",
+      "amountFLAPJAX": 150000
+    },
+    {
+      "txHash": "0x41f5bc43f9d147a414d86778cfee19c21b62da0d8fed1f9e22cd04f36b283c8e",
+      "nonce": 527,
+      "blockNumber": 130375885,
+      "timestamp": 1793233087,
+      "timeCOT": "2026-10-28 19:18:07",
+      "timeUTC": "2026-10-29 00:18:07",
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amountWei": "250000000000000000000000",
+      "amountFLAPJAX": 250000
+    },
+    {
+      "txHash": "0x36485b4966c1dbcd0198d840a865c4e97e2fec32c5f1f74cf55f5030d88bae37",
+      "nonce": 528,
+      "blockNumber": 130375893,
+      "timestamp": 1793233090,
+      "timeCOT": "2026-10-28 19:18:10",
+      "timeUTC": "2026-10-29 00:18:10",
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amountWei": "50000000000000000000000",
+      "amountFLAPJAX": 50000
+    },
+    {
+      "txHash": "0x9af6e7e8ba53540a930d3a7c532af1637c6ccc6324067ab402693b24aff992b0",
+      "nonce": 529,
+      "blockNumber": 130375904,
+      "timestamp": 1793233095,
+      "timeCOT": "2026-10-28 19:18:15",
+      "timeUTC": "2026-10-29 00:18:15",
+      "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "amountWei": "250000000000000000000000",
+      "amountFLAPJAX": 250000
+    },
+    {
+      "txHash": "0xcdbada2d2795f663a10fdb373337139f93b11256a6dfe102368c4538149412a5",
+      "nonce": 530,
+      "blockNumber": 130409040,
+      "timestamp": 1793248010,
+      "timeCOT": "2026-10-28 23:26:50",
+      "timeUTC": "2026-10-29 04:26:50",
+      "recipient": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    }
+  ],
+  "Q80": [
+    {
+      "txHash": "0x44a580d841831667955ea9e7bfcb75521ccc51c5b2ffc7299ef70bbb50fa78d5",
+      "nonce": 531,
+      "blockNumber": 130482214,
+      "timestamp": 1793280983,
+      "timeCOT": "2026-10-29 08:36:23",
+      "timeUTC": "2026-10-29 13:36:23",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x6895a4d32f4367704230435d86202b048a06c2f9d3c452fc21419ca1e5a2dac5",
+      "nonce": 532,
+      "blockNumber": 130482223,
+      "timestamp": 1793280987,
+      "timeCOT": "2026-10-29 08:36:27",
+      "timeUTC": "2026-10-29 13:36:27",
+      "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0xce38980fb1f4add7ab7dc6cf739001ded5bfac0d80756e915a4ba48d0d40b292",
+      "nonce": 533,
+      "blockNumber": 130482233,
+      "timestamp": 1793280991,
+      "timeCOT": "2026-10-29 08:36:31",
+      "timeUTC": "2026-10-29 13:36:31",
+      "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x30a82d0d9c77d6dac96e6595cd4557845cd8695fb099d93fb54b5982e221ca02",
+      "nonce": 534,
+      "blockNumber": 130482242,
+      "timestamp": 1793280995,
+      "timeCOT": "2026-10-29 08:36:35",
+      "timeUTC": "2026-10-29 13:36:35",
+      "recipient": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x58e92d0c8afedb71ca5b98e0810dc1856f1406e81b7fbe0f8bbab6c6ed8174b6",
+      "nonce": 535,
+      "blockNumber": 130482252,
+      "timestamp": 1793281000,
+      "timeCOT": "2026-10-29 08:36:40",
+      "timeUTC": "2026-10-29 13:36:40",
+      "recipient": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x81083d6b118a34358abdf3d1289ed469ca3af4871677043837d5d055c0e90e03",
+      "nonce": 536,
+      "blockNumber": 130482263,
+      "timestamp": 1793281005,
+      "timeCOT": "2026-10-29 08:36:45",
+      "timeUTC": "2026-10-29 13:36:45",
+      "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x9e9358acf04da74162ba29333e988fe6f323256d9287c37d2ea06e8bbcfa2dd3",
+      "nonce": 537,
+      "blockNumber": 130482272,
+      "timestamp": 1793281009,
+      "timeCOT": "2026-10-29 08:36:49",
+      "timeUTC": "2026-10-29 13:36:49",
+      "recipient": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x18324f74d9afbe0a7517cfc7c1c342f386817c71202bad7fa294ef05f83743e1",
+      "nonce": 538,
+      "blockNumber": 130482291,
+      "timestamp": 1793281017,
+      "timeCOT": "2026-10-29 08:36:57",
+      "timeUTC": "2026-10-29 13:36:57",
+      "recipient": "0x32cf8fffd9ada47abd09a7b2269dd4835ee994f7",
+      "amountWei": "250000000000000000000000",
+      "amountFLAPJAX": 250000
+    },
+    {
+      "txHash": "0x875c2ef38cdd206ebd49735f5cfd5755bcd5fc85cb60c78e073153953cd60550",
+      "nonce": 539,
+      "blockNumber": 130488437,
+      "timestamp": 1793283783,
+      "timeCOT": "2026-10-29 09:23:03",
+      "timeUTC": "2026-10-29 14:23:03",
+      "recipient": "0xa32fd912a81683804ec6bbd7ba4b6cad8e0ca3ac",
+      "amountWei": "250000000000000000000000",
+      "amountFLAPJAX": 250000
+    },
+    {
+      "txHash": "0xc1eac754961dc07ecc103c831197f039b23588924ff0d56efccdb1ece523b11e",
+      "nonce": 541,
+      "blockNumber": 130489446,
+      "timestamp": 1793284237,
+      "timeCOT": "2026-10-29 09:30:37",
+      "timeUTC": "2026-10-29 14:30:37",
+      "recipient": "0xcf06c2f35e7671cbb1fcae42b50a447db189f1da",
+      "amountWei": "100000000000000000000000",
+      "amountFLAPJAX": 100000
+    },
+    {
+      "txHash": "0x15e20669d88b516a43a8fafffbf2f6579ea43f15af1139e48550bef16569be46",
+      "nonce": 542,
+      "blockNumber": 130496859,
+      "timestamp": 1793287575,
+      "timeCOT": "2026-10-29 10:26:15",
+      "timeUTC": "2026-10-29 15:26:15",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x3ee7dff7623561a6ee06f3a599ef6025a44c28fd85855398e6acfc25565968b2",
+      "nonce": 543,
+      "blockNumber": 130496868,
+      "timestamp": 1793287580,
+      "timeCOT": "2026-10-29 10:26:20",
+      "timeUTC": "2026-10-29 15:26:20",
+      "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0xf066f28c0de3964e4dc06e2481a468c53fd221f962905b922078d9efae154cbd",
+      "nonce": 544,
+      "blockNumber": 130496877,
+      "timestamp": 1793287584,
+      "timeCOT": "2026-10-29 10:26:24",
+      "timeUTC": "2026-10-29 15:26:24",
+      "recipient": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+      "amountWei": "300000000000000000000000",
+      "amountFLAPJAX": 300000
+    },
+    {
+      "txHash": "0x664cfae4cd1553557c05a31c5e3fbc662afb2472f3d93df461f9b4f6f0bc7bc4",
+      "nonce": 545,
+      "blockNumber": 130513085,
+      "timestamp": 1793294879,
+      "timeCOT": "2026-10-29 12:27:59",
+      "timeUTC": "2026-10-29 17:27:59",
+      "recipient": "0xab39aa1e2db4036e01cf7e919b3f239b3ff90160",
+      "amountWei": "3000000000000000000000000",
+      "amountFLAPJAX": 3000000
+    },
+    {
+      "txHash": "0x814720410be30518ea1947c13b283b4dbe408a35c82f05f89fe00b07a4d14d1a",
+      "nonce": 546,
+      "blockNumber": 130513134,
+      "timestamp": 1793294901,
+      "timeCOT": "2026-10-29 12:28:21",
+      "timeUTC": "2026-10-29 17:28:21",
+      "recipient": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+      "amountWei": "120000000000000000000000",
+      "amountFLAPJAX": 120000
+    },
+    {
+      "txHash": "0xfb6c7f0f5edf392be0b71da8561c01b2ef111b82e40d628b2d2b7173417efb85",
+      "nonce": 547,
+      "blockNumber": 130530103,
+      "timestamp": 1793302538,
+      "timeCOT": "2026-10-29 14:35:38",
+      "timeUTC": "2026-10-29 19:35:38",
+      "recipient": "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+      "amountWei": "600000000000000000000000",
+      "amountFLAPJAX": 600000
+    },
+    {
+      "txHash": "0x1ff5c6086cc2f3960c0e1460f0482e5af5f9c059d091bfcd1f2ac888c88401b1",
+      "nonce": 548,
+      "blockNumber": 130553103,
+      "timestamp": 1793312890,
+      "timeCOT": "2026-10-29 17:28:10",
+      "timeUTC": "2026-10-29 22:28:10",
+      "recipient": "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    },
+    {
+      "txHash": "0x4c9170b0bab813ff1d43e8d200a3df72eb661a6446959a8485746ba2688d62bf",
+      "nonce": 549,
+      "blockNumber": 130600976,
+      "timestamp": 1793334439,
+      "timeCOT": "2026-10-29 23:27:19",
+      "timeUTC": "2026-10-30 04:27:19",
+      "recipient": "0xe8797a6bb4693674d78e933e85cb159a0219d03b",
+      "amountWei": "25000000000000000000000",
+      "amountFLAPJAX": 25000
+    }
+  ],
+  "verified_funders": {
+    "0x805757cc16164c3a4f9301e6e8ad1ab431c054597d748345123b54e1c46661c3": {
+      "description": "0x8186bdC89E5893393136265f88bA3719BF453527 (Treasury BNB drip)",
+      "blockNumber": 128436737,
+      "nonce": 248,
+      "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "to": "0x8186bdc89e5893393136265f88ba3719bf453527",
+      "valueWei": "500000000000000",
+      "valueBNB": 0.0005,
+      "status": "0x1"
+    },
+    "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456": {
+      "description": "0xCa58696564492eF9C3229c89072365b253bda246 (Treasury BNB drip, nonce 500)",
+      "blockNumber": 130097514,
+      "nonce": 479,
+      "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "to": "0xca58696564492ef9c3229c89072365b253bda246",
+      "valueWei": "500000000000000",
+      "valueBNB": 0.0005,
+      "status": "0x1"
+    },
+    "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7": {
+      "description": "0xFB200657F7266157A45Dfcc6c09690726Daa24E6 (Treasury BNB drip)",
+      "blockNumber": 126835408,
+      "nonce": 41,
+      "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+      "valueWei": "500000000000000",
+      "valueBNB": 0.0005,
+      "status": "0x1"
+    },
+    "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8": {
+      "description": "0x8c062Dc5D775B7D5efc168F75a875f392f53dCdf",
+      "blockNumber": 124103796,
+      "nonce": 2,
+      "from": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+      "to": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+      "valueWei": "66161600000000",
+      "valueBNB": 6.61616e-05,
+      "status": "0x1"
+    },
+    "0x98555eda02f315f4530ffb7f0f8766ef399afecff849e2eb84cf5bd63c660b34": {
+      "description": "0xd1caDa310f73455a2B119fa49aA8B682bFFF9F7D",
+      "blockNumber": 128001219,
+      "nonce": 197533,
+      "from": "0x2bb27b73c602643f42471d4751fe4fc4eebefbd1",
+      "to": "0xd1cada310f73455a2b119fa49aa8b682bfff9f7d",
+      "valueWei": "173244803480344",
+      "valueBNB": 0.000173244803480344,
+      "status": "0x1"
+    },
+    "0x16b9ff162d92e744fdecc76c60fd2126f07b938eecca40305049735b9408e4aa": {
+      "description": "0xc39A62559E81807e0F63C0529dA375CFC8fb294c",
+      "blockNumber": 129899805,
+      "nonce": 230,
+      "from": "0x4d18632a4e396c2db765670331947398bccf89a1",
+      "to": "0xc39a62559e81807e0f63c0529da375cfc8fb294c",
+      "valueWei": "1000000000000000",
+      "valueBNB": 0.001,
+      "status": "0x1"
+    },
+    "0x9f29671af3eea3cdd07dd18cbd4828fe4fab342ba65a69fd79ef5e703d9da9bb": {
+      "description": "0xC3B4F10bC4c4A64676b398EBbe23b29440dcA40c",
+      "blockNumber": 128696290,
+      "nonce": 1887128,
+      "from": "0xb01caea8c6c47bbf4f4b4c5080ca642043359c2e",
+      "to": "0xc3b4f10bc4c4a64676b398ebbe23b29440dca40c",
+      "valueWei": "39988560000000",
+      "valueBNB": 3.998856e-05,
+      "status": "0x1"
+    },
+    "0x3e5194c19461d50f30f68b61e9979980597e122f331066cef841e6583fb93ad6": {
+      "description": "0x6e850F8549f2490E26d86F43F80594565f0f00A3",
+      "blockNumber": 79464840,
+      "nonce": 1545,
+      "from": "0x015b36feeaddd227e46b2409b95d8083e67b9a67",
+      "to": "0x6e850f8549f2490e26d86f43f80594565f0f00a3",
+      "valueWei": "3013345070762934",
+      "valueBNB": 0.003013345070762934,
+      "status": "0x1"
+    },
+    "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840": {
+      "description": "0xA21fc88Bd8C17CaE306089d7B00a1f5CD5AD3eE9",
+      "blockNumber": 128955356,
+      "nonce": 687197,
+      "from": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+      "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+      "valueWei": "164397936681007",
+      "valueBNB": 0.000164397936681007,
+      "status": "0x1"
+    },
+    "0x4ebb6e4d294ff40d30295c857f3b19bae19bf73b3fb0d71fa4944362dfa49e79": {
+      "description": "0xAB39Aa1e2db4036e01CF7e919b3f239b3ff90160 (internal call)",
+      "blockNumber": 128594175,
+      "nonce": 310331,
+      "from": "0x4337031ade3a53d10121f350369907076b6d32a4",
+      "to": "0x0000000071727de22e5e9d8baf0edac6f37da032",
+      "valueWei": "0",
+      "valueBNB": 0.0,
+      "status": "0x1"
+    },
+    "0xe3a4e799eb637256215475edef4ef2b3580742c5ce2cad45eabc4f75e8529399": {
+      "description": "Last OUT before Oct 27",
+      "blockNumber": 129992819,
+      "nonce": 478,
+      "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "to": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+      "valueWei": "0",
+      "valueBNB": 0.0,
+      "status": "0x1"
+    },
+    "0x8aaafffe50593fa7a42cca7d9c12c8e8459f05268add27612faaea557be7d4f8": {
+      "description": "First OUT after Oct 29",
+      "blockNumber": 130672782,
+      "nonce": 550,
+      "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "to": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+      "valueWei": "0",
+      "valueBNB": 0.0,
+      "status": "0x1"
+    }
+  },
+  "recipient_states": {
+    "0x0098e0a060eb73c11d981de17c97dc5b1f07d735": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 100000
+    },
+    "0x0a66a9def221efc698b6bbeca82cae6729a8aba8": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 875000
+    },
+    "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02": {
+      "balanceBNB": 6.257934517396e-06,
+      "balanceWei": "6257934517396",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 4100000
+    },
+    "0x32cf8fffd9ada47abd09a7b2269dd4835ee994f7": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 250000
+    },
+    "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 2760000
+    },
+    "0x405f0dbd296b580dd2798bd3597da61407bbda36": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 25000
+    },
+    "0x6194e3ee19af3d68d08061f91d37e0fa00c49642": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 275000
+    },
+    "0x6e850f8549f2490e26d86f43f80594565f0f00a3": {
+      "balanceBNB": 0.000209516475690228,
+      "balanceWei": "209516475690228",
+      "nonce": 7,
+      "isContract": true,
+      "balanceFLAPJAX": 0
+    },
+    "0x71286ec8ecb2c08ba5fc1120b27e97b517bdb058": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 550000
+    },
+    "0x8186bdc89e5893393136265f88ba3719bf453527": {
+      "balanceBNB": 0.00048125135,
+      "balanceWei": "481251350000000",
+      "nonce": 2,
+      "isContract": false,
+      "balanceFLAPJAX": 7900000
+    },
+    "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf": {
+      "balanceBNB": 0.009989901039248792,
+      "balanceWei": "9989901039248792",
+      "nonce": 7,
+      "isContract": false,
+      "balanceFLAPJAX": 24775776
+    },
+    "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 3050000
+    },
+    "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9": {
+      "balanceBNB": 5e-09,
+      "balanceWei": "5000000000",
+      "nonce": 6,
+      "isContract": false,
+      "balanceFLAPJAX": 0
+    },
+    "0xa32fd912a81683804ec6bbd7ba4b6cad8e0ca3ac": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 250000
+    },
+    "0xab39aa1e2db4036e01cf7e919b3f239b3ff90160": {
+      "balanceBNB": 5.5928570404478e-05,
+      "balanceWei": "55928570404478",
+      "nonce": 5,
+      "isContract": false,
+      "balanceFLAPJAX": 0
+    },
+    "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 2400000
+    },
+    "0xc39a62559e81807e0f63c0529da375cfc8fb294c": {
+      "balanceBNB": 4.101428690272e-06,
+      "balanceWei": "4101428690272",
+      "nonce": 115,
+      "isContract": false,
+      "balanceFLAPJAX": 25000
+    },
+    "0xc3b4f10bc4c4a64676b398ebbe23b29440dca40c": {
+      "balanceBNB": 1.794438e-05,
+      "balanceWei": "17944380000000",
+      "nonce": 2,
+      "isContract": false,
+      "balanceFLAPJAX": 50000
+    },
+    "0xca58696564492ef9c3229c89072365b253bda246": {
+      "balanceBNB": 0.000463392,
+      "balanceWei": "463392000000000",
+      "nonce": 1,
+      "isContract": false,
+      "balanceFLAPJAX": 5605000
+    },
+    "0xcf06c2f35e7671cbb1fcae42b50a447db189f1da": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 100000
+    },
+    "0xd16446a568f46bca1504422062f23767d8fa58d9": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 625000
+    },
+    "0xd1cada310f73455a2b119fa49aa8b682bfff9f7d": {
+      "balanceBNB": 6.1276404898585e-05,
+      "balanceWei": "61276404898585",
+      "nonce": 5,
+      "isContract": false,
+      "balanceFLAPJAX": 1384706
+    },
+    "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 4180000
+    },
+    "0xe8797a6bb4693674d78e933e85cb159a0219d03b": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 25575000
+    },
+    "0xeb1a0045d2477f4ae99c07e55d944ad361cfc828": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 250000
+    },
+    "0xf21abef982bb1ac0308fc60887881ba640323053": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 1125000
+    },
+    "0xfb200657f7266157a45dfcc6c09690726daa24e6": {
+      "balanceBNB": 0.0005,
+      "balanceWei": "500000000000000",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 6300000
+    },
+    "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8": {
+      "balanceBNB": 0.0,
+      "balanceWei": "0",
+      "nonce": 0,
+      "isContract": false,
+      "balanceFLAPJAX": 3480000
+    }
+  },
+  "snapshot_block": 130768956
+}
