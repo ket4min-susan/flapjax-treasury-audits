@@ -1,5 +1,7 @@
 # FlapJax Treasury On-Chain Audits (BSC) — Q76, Q78, Q80
 
+[![CI](https://github.com/ket4min-susan/flapjax-treasury-audits/actions/workflows/ci.yml/badge.svg)](https://github.com/ket4min-susan/flapjax-treasury-audits/actions/workflows/ci.yml) · [GitLab Mirror (`@memwm`)](https://gitlab.com/memwm/flapjax-treasury-audits)
+
 Independent on-chain receipt verification of outbound `FLAPJAX` (`0x90c8889f428F9Ebb77BB8f15CAD3a50a9aC680df`) transfers from the FlapJax treasury (`0x7C34E9e21eE28A49Ff0b84B61774119E6633359f`) on BNB Smart Chain (BSC), grouped by first BNB funder.
 
 - **Worker / BSC Payout Wallet (Taskmarket)**: `0xf46B3853261750F666eB3963e2cB40d6b68938A9`
